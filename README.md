@@ -1,29 +1,200 @@
-<h1 align="center">Hi 👋, I'm Tamim Reza</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<!-- ========================= -->
+<!--        PROFILE HEADER     -->
+<!-- ========================= -->
 
-- 🔭 I’m currently working on **Modern Web Development Projects**
+<div align="center">
 
-- 🌱 I’m currently learning **Html, CSS ,JavaScript, React, Next.js, TypeScript & Tailwind CSS**
+# 👋 Hi, I'm Tamim Reza
 
-- 👯 I’m looking to collaborate on **Frontend & Web Development Projects**
+### 🚀 Passionate Frontend Developer from Bangladesh 🇧🇩
 
-- 🤝 I’m looking for help with **Advanced JavaScript, React & Next.js**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Enthusiast;React+%7C+Next.js+Developer;Future+Full+Stack+Web+Developer" />
 
-- 💬 Ask me about **Frontend Development**
+</div>
 
-- 📫 How to reach me **pstamim723@gmail.com**
+---
 
-- ⚡ Fun fact **I love learning new technologies and building web projects**
+<!-- ========================= -->
+<!--          ABOUT ME         -->
+<!-- ========================= -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I'm a passionate **Frontend Developer** who loves creating modern, responsive,
+and user-friendly web applications.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamim-web-codes&show_icons=true&locale=en&layout=compact" alt="tamim-web-codes" /></p>
+- 🔭 Currently working on **Modern Web Development Projects**
+- 🌱 Currently learning **JavaScript, React, Next.js, TypeScript & Tailwind CSS**
+- 👯 Looking to collaborate on **Frontend & Web Development Projects**
+- 🤝 Looking for help with **Advanced JavaScript, React & Next.js**
+- 💬 Ask me about **HTML, CSS, JavaScript, React & Frontend Development**
+- 📫 Email: **pstamim723@gmail.com**
+- 🎯 Goal: **Become a Full Stack Web Developer**
+- ⚡ Fun fact: **I love learning new technologies and building web projects**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamim-web-codes&show_icons=true&locale=en" alt="tamim-web-codes" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamim-web-codes&" alt="tamim-web-codes" /></p>
+<!-- ========================= -->
+<!--       TECH STACK          -->
+<!-- ========================= -->
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### 🌐 Frontend
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="55"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="55"/>
+</a>
+
+<a href="https://nextjs.org/">
+<img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
+</a>
+
+<br/>
+
+### 🎨 Styling & Type Safety
+
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
+</a>
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=ts" width="55"/>
+</a>
+
+</div>
+
+---
+
+<!-- ========================= -->
+<!--       WHAT I DO           -->
+<!-- ========================= -->
+
+## 💡 What I Do
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 💻 Frontend Development
+
+- Responsive Websites
+- Modern UI Design
+- React Applications
+- Next.js Applications
+- Component-Based Development
+
+</td>
+
+<td width="50%">
+
+### 🚀 Currently Improving
+
+- JavaScript
+- React
+- Next.js
+- TypeScript
+- API Integration
+- Modern Web Development
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================= -->
+<!--        CONNECT            -->
+<!-- ========================= -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:pstamim723@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tamim-web-codes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- ========================= -->
+<!--       GITHUB STATS        -->
+<!-- ========================= -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=tamim-web-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+height="180"
+/>
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-web-codes&layout=compact&theme=tokyonight&hide_border=true"
+height="180"
+/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=tamim-web-codes&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+<!-- ========================= -->
+<!--        CONTRIBUTION       -->
+<!-- ========================= -->
+
+## 🐍 My Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+<!-- ========================= -->
+<!--          FOOTER           -->
+<!-- ========================= -->
+
+<div align="center">
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
+
+**Thanks for visiting my profile! ❤️**
+
+</div>
