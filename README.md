@@ -181,24 +181,31 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=tamim-web-codes&them
 <!--        CONTRIBUTION       -->
 <!-- ========================= -->
 
-## 🐍 My Contribution Journey
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+## 🐍 Contribution Journey
 
-</div>
+<img
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+  width="100%"
+/>
 
----
-
-<!-- ========================= -->
-<!--          FOOTER           -->
-<!-- ========================= -->
-
-<div align="center">
+<br/><br/>
 
 ### 🚀 Keep Learning • Keep Building • Keep Growing
 
-**Thanks for visiting my profile! ❤️**
+<i>Turning ideas into code, and code into possibilities.</i>
+
+<br/><br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%E2%9D%A4%EF%B8%8F;Keep+coding%2C+keep+creating!+%F0%9F%9A%80"
+  alt="Footer"
+/>
+
+<br/><br/>
+
+<sub>© 2026 Tamim Reza • Crafted with ❤️ and Code</sub>
 
 </div>
